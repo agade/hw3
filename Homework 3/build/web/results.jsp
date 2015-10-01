@@ -11,6 +11,18 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Results</title>
     </head>
+    
+    <%
+    
+    String totalHoursWorked = request.getParameter(")
+    String hourlyRate = new
+    String hoursOvertime = new
+    String overtimeHourlyRate = new
+    
+    
+    
+        %>
+        
     <body>
         <h1>Salary Info</h1>
         <hr>
